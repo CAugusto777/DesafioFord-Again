@@ -1,0 +1,12 @@
+Sprint Backlog
+
+Historia ID1
+Descrição : Mudar com dos nomes dos veículos para azul.
+Esforço :1,5 horas
+
+Observações : Editar de forma manual o Html e estruturar o código.
+
+Historia ID 3
+Descrição : Alteração dos nomes para facilitar o acesso ao portal.
+Esforço : 2 horas
+Observações : Editar manualmente o html e testar os links, e estruturar o código.
