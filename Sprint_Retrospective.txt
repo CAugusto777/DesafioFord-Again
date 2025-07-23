@@ -1,0 +1,16 @@
+Sprint Retrospective
+
+Start – O que devemos começar a fazer
+- Padronizar commits para facilitar o rastreio das alterações.
+- Revisar o código antes do merge usando pull requests.
+- Usar issues no GitHub para acompanhar o progresso e vincular às tarefas.
+
+Stop – O que devemos parar de fazer
+- Evitar acumular commits, pois isso complica o controle de versão.
+- Não trabalhar direto na branch principal sem testes prévios.
+- Evitar alterações sem planejamento, para reduzir retrabalho.
+
+Continue – O que devemos continuar fazendo
+- Dividir tarefas em branches por funcionalidade para melhor organização.
+- Manter reuniões de planejamento para garantir alinhamento.
+- Continuar usando Git/GitHub para versionamento e acompanhamento do progresso.
